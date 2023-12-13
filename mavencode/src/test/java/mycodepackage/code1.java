@@ -1,8 +1,6 @@
-package mavencode.mavencode;
+package mycodepackage;
 
-public class mycodepackage1 {
-	//enter login details
-	//open login page
+public class code1 {
 	class Main {
 
 		  public static void main(String[] args) {
